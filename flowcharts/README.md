@@ -1,0 +1,1 @@
+The flowchart shows the processes involved in account creation
